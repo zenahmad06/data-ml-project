@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Data Exploration"
+permalink: /data-exploration/data-exploration-l/
+---
 
 # DESCRIPTIVE STATISTIK
 
