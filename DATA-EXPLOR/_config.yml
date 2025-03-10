@@ -1,6 +1,6 @@
 
 title: "My Jekyll Blog"
-baseurl: ""  # Leave blank if at root, else use "/repo-name"
+baseurl: "/DATA-EXPLOR"  # Leave blank if at root, else use "/repo-name"
 url: "https://zenahmad06.github.io"
 
 # Theme (Minima is a simple default Jekyll theme)
