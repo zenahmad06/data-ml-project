@@ -1,7 +1,0 @@
-title: "My Jekyll Blog"
-description: "This is my blog powered by Jekyll on GitHub Pages."
-baseurl: ""  # If in root; use "/blog" if in subdirectory
-url: "https://yourusername.github.io"
-theme: minima  # Default GitHub Pages theme
-plugins:
-  - jekyll-feed
