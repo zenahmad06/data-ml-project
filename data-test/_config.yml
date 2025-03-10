@@ -2,3 +2,4 @@ title: "My Jekyll Blog"
 baseurl: "/data-ml-project/data-test"  # This should match the repository name if inside a subfolder
 url: "https://zenahmad06.github.io"
 theme: minima
+markdown: kramdown
