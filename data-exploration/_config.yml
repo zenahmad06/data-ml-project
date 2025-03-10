@@ -1,5 +1,5 @@
 title: "My Jekyll Blog"
 baseurl: "/data-ml-project"  # Leave empty if at the root, use "/data-exploration" if inside a subfolder
-url: "https://yourusername.github.io"
+url: "https://zenahmad06.github.io"
 theme: minima  # Or any theme you use
 
