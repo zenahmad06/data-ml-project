@@ -3,6 +3,7 @@ layout: post
 title: "Descriptive Statistics Analysis"
 date: 2025-03-11
 categories: data-analysis
+permalink: "/_posts/"
 ---
 # DESCRIPTIVE STATISTIK
 
