@@ -2,6 +2,7 @@
 layout: page
 title: "Data Descriptive Analysis"
 permalink: /data_descriptive/
+image_path: /assets/image-data/
 ---
 # DESCRIPTIVE STATISTIK
 
