@@ -3,4 +3,6 @@ baseurl: "/data-ml-project"  # This should match the repository name if inside a
 url: "https://zenahmad06.github.io"
 theme: minima
 include:
-  -assets
+  - assets
+  - _posts
+  - _pages
