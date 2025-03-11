@@ -127,7 +127,7 @@ data.head()
 - salah satu metode yang paling banyak digunakan
 - nilai mean dipengaruhi juga oleh outlier data
 - rumusnya :
-
+<img src="{{ site.baseurl }}/assets/image-data/mean.JPG" alt="Mean Image">
 
 ![mean.JPG](/assets/image-data/mean.JPG)
 
